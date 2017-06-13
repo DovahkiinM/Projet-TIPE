@@ -1,0 +1,32 @@
+Profondeur :3
+Moyenne : 0.04362765225497159
+Gagnant :Blanc
+ 
+Profondeur :4
+Moyenne : 0.11729500028822157
+Gagnant :Noir
+ 
+Profondeur :2
+Moyenne : 0.015637386590242386
+Gagnant :None
+ 
+Profondeur :5
+Moyenne : 0.41572084426879885
+Gagnant :None
+ 
+Profondeur :6
+Moyenne : 1.911796065996278
+Gagnant :None
+ 
+Profondeur :7
+Moyenne : 2.2060596059869835
+Gagnant :Noir
+ 
+Profondeur :8
+Moyenne : 6.825407518280877
+Gagnant :Blanc
+ 
+Profondeur :6
+Moyenne : 1.8903983235359192
+Gagnant :None
+ 
